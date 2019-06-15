@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "973000320522",
+    "firebase_url": "https://copaamerica-ba2e5.firebaseio.com",
+    "project_id": "copaamerica-ba2e5",
+    "storage_bucket": "copaamerica-ba2e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973000320522:android:dd5b361834d07b80",
+        "android_client_info": {
+          "package_name": "com.unab.copaamerica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973000320522-9v0bc2vv8mv3rgaatpu3fgpgoggv3mdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGX9IYMSZT4IH4brYtIftMC5myNtFVzn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973000320522-9v0bc2vv8mv3rgaatpu3fgpgoggv3mdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
