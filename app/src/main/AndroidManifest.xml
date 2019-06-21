@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.unab.copaamerica">
+    package="com.unab.camerica">
 
     <application
         android:allowBackup="true"
@@ -9,8 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ActividadGrupalActivity"></activity>
-        <activity android:name=".HistoricActivity" />
+        <activity android:name=".IngresoResultados"></activity>
+        <activity android:name=".dashboard"></activity>
+        <activity android:name=".input_datos"></activity>
         <activity
             android:name=".SplashActivity"
             android:theme="@style/SplashActivityTheme">
@@ -22,7 +23,7 @@
         </activity>
         <activity
             android:name=".MainActivity"
-            android:theme="@style/SplashTheme" />
+            android:theme="@style/SplashTheme"></activity>
     </application>
 
 </manifest>
