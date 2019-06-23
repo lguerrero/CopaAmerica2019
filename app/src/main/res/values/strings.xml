@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Partidos Copa America 2019</string>
-    <string name="vs">vs</string>
-    <string name="primera_ronda">Resultados</string>
-    <string name="dashboad">Dashboard</string>
-    <string name="addresult">Agregar Resultados</string>
-</resources>
