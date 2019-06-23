@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "611215024135",
+    "firebase_url": "https://msichile-7d7d2.firebaseio.com",
+    "project_id": "msichile-7d7d2",
+    "storage_bucket": "msichile-7d7d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611215024135:android:cba46be29de347bd",
+        "android_client_info": {
+          "package_name": "com.unab.camerica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611215024135-th0457a93ld39knhb50pvn1nhjsa1n72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6WeHqurgXmxaLTc99g_N0BebgPr5g-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611215024135-th0457a93ld39knhb50pvn1nhjsa1n72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
