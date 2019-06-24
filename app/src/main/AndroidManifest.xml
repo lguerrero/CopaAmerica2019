@@ -12,6 +12,7 @@
         <activity android:name=".IngresoResultados"></activity>
         <activity android:name=".dashboard"></activity>
         <activity android:name=".input_datos"></activity>
+        <activity android:name=".Compartir"></activity>		
         <activity
             android:name=".SplashActivity"
             android:theme="@style/SplashActivityTheme">

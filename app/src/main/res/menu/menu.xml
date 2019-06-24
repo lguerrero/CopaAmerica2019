@@ -9,4 +9,7 @@
     <item
         android:id="@+id/verdashboard"
         android:title="Resultados Promedio"></item>
+    <item
+        android:id="@+id/btncompartir"
+        android:title="Compartir"></item>
 </menu>
